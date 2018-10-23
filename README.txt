@@ -5,8 +5,8 @@ LANGUAGE - JAVA
 JDK USED - jdk1.8.0_151
 IDE USED - IntelliJ IDEA Community Edition 2017.3.4 x64
 TOTAL NUMBER OF FILES – 4
-TO RUN IT ON TERMINAL, STEPS -
 
+TO RUN IT ON TERMINAL, STEPS -
 - javac *.java
 - java DijkstrasProject network.txt <queries.txt> output.txt
 
